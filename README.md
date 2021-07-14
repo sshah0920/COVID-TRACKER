@@ -1,7 +1,7 @@
 # COVID-TRACKER
 
 A Java Spring Boot Application to track number of COVID-19 Cases. <br />
-#Data Generated from: 
+# Data Generated from: 
 https://github.com/CSSEGISandData/COVID-19
 
 # How to run?
