@@ -9,4 +9,5 @@ https://github.com/CSSEGISandData/COVID-19
 (2) Open the project in an IDE (IntelliJ Preferred). <br />
 (3) Run the CdvidTrackerApplication.java inside the src -> main -> java -> com.
 
+# Screenshot
 ![Img File](https://resumeimages209.s3.us-west-1.amazonaws.com/COVID-TRACKER.png)
